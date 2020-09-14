@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Martin Lettau"
-  avatar           : "images/ML.png"
+  avatar           : "images/ML.jpg"
   bio              : "Financial Economist"
   location         : "Berkeley, CA"
   employer         : "Haas School of Business, UC Berkeley"
